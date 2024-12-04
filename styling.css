@@ -71,3 +71,8 @@ div.gallery-icon.landscape {
 	align-items: center;
 	justify-content: center;
 }
+
+div.gallery-icon.landscape img {
+	width: 100%;
+	border-radius: 8px;
+}
